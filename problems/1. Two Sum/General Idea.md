@@ -1,7 +1,5 @@
 # 1. Two Sum
 
-This problem is a pretty simple one so there isn't very much to explain.
-
 ## Speed Solution
 
 In this case the solution to maximise the speed is by using the following idea.
