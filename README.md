@@ -8,6 +8,6 @@ If you wanna use any solution in leetcode keep in mind that if you want to achie
 
 | Num | Name    | Difficulty | Problem | Solution                                                                                 |
 | --- | ------- | ---------- | ---------- | ---------------------------------------------------------------------------------------- |
-| 1   | Two Sum | Easy       | [Here](https://leetcode.com/problems/two-sum/)      | [Here](https://github.com/FumingPower3925/go-leetcode/tree/main/problems/1.%20Two%20Sum) |
+| 1   | Two Sum | <span style="color:green"> *Easy*</span>       | [Here](https://leetcode.com/problems/two-sum/)      | [Here](https://github.com/FumingPower3925/go-leetcode/tree/main/problems/1.%20Two%20Sum) |
 
 
