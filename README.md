@@ -6,8 +6,8 @@ If you wanna use any solution in leetcode keep in mind that if you want to achie
 
 # Index
 
-| Num | Name    | Explanations | Speed Solution | Space Solution |
-| --- | ------- | ------------ | -------------- | -------------- |
-| 1   | Two Sum |              |                |                |
+| Num | Name    | Difficulty | Acceptance | Solution                                                                                 |
+| --- | ------- | ---------- | ---------- | ---------------------------------------------------------------------------------------- |
+| 1   | Two Sum | Easy       | 50.1%      | [Here](https://github.com/FumingPower3925/go-leetcode/tree/main/problems/1.%20Two%20Sum) |
 
 
