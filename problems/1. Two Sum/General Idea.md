@@ -19,7 +19,6 @@ So if we have a number (num), for example the one that we are dealing with in th
 In this case we are just going to iterate once throught the array nums, and the rest of operations (adding and finding elements in a map) are constant $O(1)$. Therefore, having $n$ as the length of the array "nums", we have:
 
 $$
-
 O(n)
 $$
 
