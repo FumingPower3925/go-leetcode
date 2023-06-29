@@ -10,4 +10,4 @@ If you wanna use any solution in leetcode keep in mind that if you want to achie
 | --- | ------- | ---------- | ---------- | ---------------------------------------------------------------------------------------- |
 | 1   | Two Sum | Easy      | [Here](https://leetcode.com/problems/two-sum/)      | [Here](https://github.com/FumingPower3925/go-leetcode/tree/main/problems/1.%20Two%20Sum) |
 | 2   | Add Two Numbers | Medium | [Here](https://leetcode.com/problems/add-two-numbers/) | [Here](https://github.com/FumingPower3925/go-leetcode/tree/main/problems/2.%20Add%20Two%20Numbers)
-
+| 3   | Longest Substring Without Repeating Characters | Medium | [Here](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Here](https://github.com/FumingPower3925/go-leetcode/tree/main/problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
