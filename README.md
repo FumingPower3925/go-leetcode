@@ -4,6 +4,8 @@ Created to share my progress. Aiming to complete all problems. The solutions may
 
 If you wanna use any solution in leetcode keep in mind that if you want to achieve maximum speed, sometimes is necessary to remove the comments.
 
+If you want to achieve minimum space in any solution keep in mind that you will have to "insert" all the auxiliar functions in the main one.
+
 # Index
 
 | Num | Name                                           | Difficulty | Problem                                                                               | Solution                                                                                                                              |
